@@ -1,5 +1,5 @@
 
-![](https://searchnstuff.co.uk/wp-content/uploads/2024/11/search-n-stuff-logo.png)
+<img src="https://searchnstuff.co.uk/wp-content/uploads/2024/11/search-n-stuff-logo.png" width=400>
 
 # Presentation repo for Search ‘n Stuff Antalya Global Digital Marketing Conference 2025
 

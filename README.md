@@ -23,3 +23,13 @@ Crawl a website and convert all its page to markdown format, splitting the page 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/main/html_to_markdown.ipynb)
 
+
+
+
+
+## [Analyze website structure with XML sitemaps](xml_sitemaps.ipynb)
+
+Download all XML sitemaps from a website, analyze its URL structure, see publishing trends, audit errors, and analyze flexibly.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/main/xml_sitemaps.ipynb)
+

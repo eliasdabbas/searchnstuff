@@ -24,4 +24,4 @@ Download all XML sitemaps from a website, analyze its URL structure, see publish
 
 Crawl a website, find URLs of a certain type, create a prompt template. Run prompts in bulk. Get JSON-LD schema markups for the type and properties of your choice.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/ai_assisted_schema_generation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/main/ai_assisted_schema_generation.ipynb)

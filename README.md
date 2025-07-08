@@ -8,6 +8,13 @@ Feel free to share any feedback, bugs, suggestions, or questions through the [is
 
 Install Python, install a few packages, and get started by crawling a website, all in 8 minutes:
 
+## [Beginners workshop](beginners_workshop.ipynb)
+
+Get started with the abosolute basics. Zero knowledge required. Create variables, use variables, create lists, install packages.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/main/beginners_workshop.ipynb)
+
+
 ## [Convert HTML pages to markdown in bulk](html_to_markdown.ipynb)
 
 Crawl a website and convert all its page to markdown format, splitting the page into headings h1-h6 and normal text.

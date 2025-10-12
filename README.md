@@ -2,7 +2,11 @@
 
 # Presentation repo for Search ‘n Stuff Antalya Global Digital Marketing Conference 2025
 
-Feel free to share any feedback, bugs, suggestions, or questions through the [issues tab.](https://github.com/eliasdabbas/searchnstuff/issues)
+For any feedback, bugs, suggestions, or questions, please share them through the [issues tab.](https://github.com/eliasdabbas/searchnstuff/issues)
+
+## [Presentation](antalya_presentation_2025.pdf)
+
+Slides presented, also serving as an intro to the workshop notebooks below.
 
 ## [Absolute beginner, start here](https://www.youtube.com/watch?v=QKLDaDYOLv8)
 
@@ -10,7 +14,7 @@ Install Python, install a few packages, and get started by crawling a website, a
 
 ## [Beginners workshop](beginners_workshop.ipynb)
 
-Get started with the abosolute basics. Zero knowledge required. Create variables, use variables, create lists, install packages.
+Get started with the absolute basics. Zero knowledge required. Create variables, use variables, create lists, install packages.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/main/beginners_workshop.ipynb)
 
@@ -20,13 +24,11 @@ Download all XML sitemaps from a website, analyze its URL structure, see publish
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/main/xml_sitemaps.ipynb)
 
-
 ## [Convert HTML pages to markdown in bulk](html_to_markdown.ipynb)
 
 Crawl a website and convert all its page to markdown format, splitting the page into headings h1-h6 and normal text.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/searchnstuff/blob/main/html_to_markdown.ipynb)
-
 
 ## [AI-assited schema markup generation](ai_assisted_schema_generation.ipynb)
 
